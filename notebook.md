@@ -6,7 +6,56 @@
 
   - [Text Formatting](#text-formatting)
 
+## Vocab
+<details>
+  <summary>algorithm</summary>
+    Step-by-step instructions. 
+  
+    Example: The steps to making cookies and a method we use for long math problems are both examples of algorithms.
+</details>
 
+<details>
+  <summary>sequencing</summary>
+    The order things happen in.
+
+    Example: Brushing your teeth might consist of these steps: Put toothpaste on the toothbrush. Use the toothbrush to clean your teeth.
+</details>
+
+<details>
+<summary>selection</summary>
+The point where decisions are made in an algorithm.
+
+   Example: Input “How old are you?”
+age ← USER INPUT
+IF age > 16 THEN
+OUTPUT "You are old enough to drive a car"
+ELSE
+OUTPUT "Come back when you are older!"
+
+</details>
+
+<details>
+  <summary>iteration</summary>
+  Iterating in loops is to systematically move through each item in a set of data. Executing code for each item is an iteration of the code. Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.
+
+    example: Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.
+ </details>
+
+## Code Examples
+ 
+  ### Print Statements
+  ```java
+  public class Hello {
+      public static void main(String[] args) {
+          System.out.println("Hello World!");
+      }
+  }
+  ```
+  **System** accesses a Java class that's built into the language
+  
+  **out** is short for "output".
+  
+  **println** is short for "print line".
 
 
 
