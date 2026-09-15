@@ -42,6 +42,22 @@ OUTPUT "Come back when you are older!"
     example: Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.
  </details>
 
+ <details>
+  <summary>variable</summary>
+  	A variable is like a box that holds the information you want.
+
+    example:String weather = "sunny";
+int age = 4;
+ </details>
+
+ <details>
+   <summary>strings</summary>
+   A string is a set of words or numbers that are surrounded by quotation marks
+
+   example: String weather = "sunny";
+    </details>
+
+ 
 ## Code Examples
  
   ### Print Statements
