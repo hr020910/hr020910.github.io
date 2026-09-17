@@ -56,7 +56,30 @@ int age = 4;
 
    example: String weather = "sunny";
     </details>
+  
+ <details>
+  <summary>intgers</summary>
+ Whole numbers, which can be either positive or negative.
+   example: 12, -300
+  </details>
+  
+ <details>
+  <summary>double</summary>
+used decimals for numbers
+Example: 3.14, -.05
+  </details>
 
+ <details>
+  <summary>char</summary> 
+   Used for a single character. Characters must be surrounded by single quotes.
+example:'A', '1', '$'
+ </details>
+
+ <details>
+ <summary>boolean</summary> 
+  Represents true or false values.
+example: true, false
+ </details>
  
 ## Code Examples
  
