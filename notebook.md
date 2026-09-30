@@ -80,7 +80,14 @@ example:'A', '1', '$'
   Represents true or false values.
 example: true, false
  </details>
- 
+
+  <details>
+ <summary>concatenation</summary>  
+Adding strings together to create longer strings. "Hello my name" + "is" + "Dominique"
+example:print("This is " + "an example of " + "concatenation.")
+# Output: This is an example of concatenation.
+ </details>
+
 ## Code Examples
  
   ### Print Statements
