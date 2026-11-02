@@ -5,5 +5,10 @@ what will my program do is it will open front doors through an app.
 who might use it is teenagers who dont have a key and elderly people.
 information i will use is boolean.
 decisions my program will make is wether to open the door or not.
-variab;es i will use is boolean and string, stringname.
+variables i will use is boolean and string, stringname.
+
+it will welcome the users name.
+and then it will show up a blue page to enter their passcode.
+the passcode will show to wether to unlock or lock a door.
+it will have a history log and an alarm system, a temporapy code for guest.
 
