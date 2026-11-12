@@ -2,7 +2,7 @@
 
 ## Projects
 
-- Project 1: Description
+- [project1](extension-project.md): Description
 
 - Project 2: Description
 
